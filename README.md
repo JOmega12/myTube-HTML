@@ -1,4 +1,4 @@
-This is the first HTML Project from my bootcamp that implements HTML source code from using images, tables, and forms.
+This is the first HTML Project that implements HTML source code from using images, tables, and forms.
 The instruction follows: 
 
 1. This is to be done with HTML ONLY. (For your Module 2 project you'll be tasked with adding CSS to this MyTube project).
